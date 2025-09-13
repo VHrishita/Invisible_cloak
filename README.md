@@ -30,8 +30,6 @@ It looks like the area covered by the cloak is "see-through"—as if you're invi
 
 ## 🖥️ Demo
 
-![Invisible Cloak Demo](https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif)  
-> Replace this with your own GIF or video later if you like!  
 
 ---
 
@@ -43,14 +41,19 @@ It looks like the area covered by the cloak is "see-through"—as if you're invi
 - OpenCV
 - NumPy
 
-Install dependencies:
+---
 
-```bash
-pip install -r requirements.txt
+### Install dependencies:
+
+Check the requirements.txt file to install the dependencies.
+
+---
 
 ### Run the Project
 
 python cloak.py
+
+---
 
 ###Instructions:
 
@@ -58,3 +61,5 @@ python cloak.py
 - Step into the frame wearing your cloak.
 - Watch the cloak disappear like magic!
 - Press q to quit the program.
+
+Enjoy!
