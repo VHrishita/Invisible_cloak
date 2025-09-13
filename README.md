@@ -55,7 +55,7 @@ python cloak.py
 
 ---
 
-###Instructions:
+### Instructions:
 
 - Press b to capture the background (make sure the frame is empty).
 - Step into the frame wearing your cloak.
