@@ -9,7 +9,6 @@ Now you can… with just a webcam, a cloak, and some Python magic!
 
 This project uses **Python** and **OpenCV** to create the **illusion of invisibility**.  
 Simply wear a colored cloak (bright red), and watch the cloak **blend with the background** in real-time.  
-It’s like a **DIY invisibility cloak** straight out of a wizarding world! 🧥💨
 
 ---
 
